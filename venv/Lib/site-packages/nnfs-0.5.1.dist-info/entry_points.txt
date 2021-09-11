@@ -1,0 +1,3 @@
+[console_scripts]
+nnfs = nnfs.console.nnfs:main
+

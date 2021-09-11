@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: nnfs
+Version: 0.5.1
+Summary: Package related to the Neural Networks from Scratch in Python book
+Home-page: https://github.com/Sentdex/nnfs
+Author: Harrison Kinsley
+Author-email: harrison@pythonprogramming.net
+License: UNKNOWN
+Project-URL: Homepage, https://nnfs.io/
+Project-URL: Funding, https://nnfs.io/
+Project-URL: Documentation, https://nnfs.io/
+Keywords: nnfs neural network networks from scratch in python
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+# nnfs
+Neural Networks from Scratch
+
+For use in conjunction with the book (https://nnfs.io) and the video series on YouTube (link to come later).
+
+At the moment, the main use is for the dataset generator:
+```python
+from nnfs.datasets import spiral_data_generator
+```
+
+
+ Have much more planned in the future... but just needed a quick way for people to get the dataset generator.
+
+
