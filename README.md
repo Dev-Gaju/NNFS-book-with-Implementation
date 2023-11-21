@@ -1,4 +1,5 @@
-# Neural Networks from Scratch (NNFS) book code
+Link Of this Book: <a href="https://nnfs.io/">Book</a>
 
-The NNFS book is written with the Python programming lanauge. If you're interested in seeing this same content, but with 40+ other programming languages,
+
+Beginner on ML? Check out my Awesome Repository too <a href="https://github.com/Dev-Gaju/Machine-Learning-Starter">Machine Learning StarterMachine Learning Starter</a>
 
